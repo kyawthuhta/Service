@@ -7,6 +7,8 @@ ruby '2.4.5'
 gem 'rails', '~> 5.2.3'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
+# Use devise gem for user sign_in & sign_up
+gem 'devise', '~> 4.2'
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
