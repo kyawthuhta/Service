@@ -9,7 +9,7 @@ gem 'rails', '~> 5.2.3'
 gem 'sqlite3'
 
 # Use devise gem for user sign_in & sign_up
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 # Use simple form gem 
 gem 'simple_form'
 
